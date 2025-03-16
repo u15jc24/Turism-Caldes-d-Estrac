@@ -69,3 +69,12 @@ footer {
 footer p {
     margin: 0;
 }
+
+.beach_card {
+    margin: auto;
+}
+
+.table_class {
+    border: 5px solid rgb(189,217,174) !important;
+    border-radius: 15% !important;
+}
