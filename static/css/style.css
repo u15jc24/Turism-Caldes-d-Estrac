@@ -78,3 +78,21 @@ footer p {
     border: 5px solid rgb(189,217,174) !important;
     border-radius: 15% !important;
 }
+
+a{
+    text-decoration: none !important;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.card{
+    background-color: rgb(189, 217, 174) !important;
+    box-shadow: 10px 10px 20px #a8aea8;
+}
+
+.map-text{
+    width: 1000px !important;
+    justify-content: center;
+}
